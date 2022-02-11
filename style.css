@@ -3,7 +3,6 @@ header {
     width: 100%;
     display: flex;
     align-items: flex-start;
-
     background-color: #ff7;
 }
 
@@ -13,4 +12,5 @@ width: 140px;
 color: #fff;
 border: 1px solid #fff;
 font-weight: bold;
+text-align:center;
 }
